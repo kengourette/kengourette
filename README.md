@@ -20,7 +20,7 @@
 Языки и инструменты:
 </h4>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href=" ">
     <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge" alt="Python Badge"/>
   </a>
@@ -36,14 +36,14 @@
   <a href=" ">
     <img src="https://img.shields.io/badge/seaborn-black?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn Badge"/>
   </a>
-  <a href=" ">
-    <img src="https://img.shields.io/badge/sql-grey?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL Badge"/>
+   <a href=" ">
+    <img src="https://img.shields.io/badge/docker-white?logo=docker&logoColor=blue&style=for-the-badge" alt="Docker Badge"/>
   </a>
  <a href=" ">
     <img src="https://img.shields.io/badge/scikitlearn-orange?logo=scikitlearn&logoColor=blue&style=for-the-badge" alt="Scikit-learn Badge"/>
   </a>
-  <a href=" ">
-    <img src="https://img.shields.io/badge/docker-white?logo=docker&logoColor=blue&style=for-the-badge" alt="Docker Badge"/>
+<a href=" ">
+    <img src="https://img.shields.io/badge/sql-grey?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL Badge"/>
   </a>
   <a href=" ">
     <img src="https://img.shields.io/badge/numpy-green?logo=numpy&logoColor=black&style=for-the-badge" alt="Numpy Badge"/>
