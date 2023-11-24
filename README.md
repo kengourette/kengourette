@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge" alt="Pandas Badge"/>
   </a>
   <a href=" ">
-    <img src="https://img.shields.io/badge/seaborn-black?logo=seaborn&logoColor=yellow&style=for-the-badge">
+    <img src="https://img.shields.io/badge/seaborn-black?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn Badge"/>
   </a>
 </div>
 
