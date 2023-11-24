@@ -28,25 +28,15 @@
     <img src="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge" alt="Pandas Badge"/>
   </a>
   <a href=" ">
+    <img src="https://img.shields.io/badge/matplotlib-orange?logo=matplotlib&logoColor=black&style=for-the-badge" alt="Matplotlib Badge"/>
+  </a>
+  <a href=" ">
     <img src="https://img.shields.io/badge/seaborn-black?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn Badge"/>
   </a>
-</div>
-
-
-
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href=" ">
+    <img src="https://img.shields.io/badge/scikitlearn-orange?logo=scikitlearn&logoColor=blue&style=for-the-badge" alt="Scikit-learn Badge"/>
   </a>
 </div>
-
 
 
 <h4 align="center">
