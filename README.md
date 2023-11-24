@@ -12,7 +12,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.kaggle.com/kengourette">
-    <img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/kaggle-lightblue?logo=kaggle&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
