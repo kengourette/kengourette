@@ -22,6 +22,8 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
+ </div>
+ <div id="badges">
   <img scr="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge"/>
 </div>
 
