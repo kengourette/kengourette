@@ -1,4 +1,4 @@
-<h2>
+<h2 align="center">
 Привет! Добро пожаловать на мою страничку 👋
 </h2>
 <div id="header" align="center">
