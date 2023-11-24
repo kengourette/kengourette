@@ -1,8 +1,8 @@
-### ***Привет! Добро пожаловать на мою страничку*** 👋
+###                                            ***Привет! Добро пожаловать на мою страничку*** 👋
 
 <div id="header" align="center">
  <img src=
-"https://media.giphy.com/media/fen8hZws2UoPaaahL2/giphy.gif" " width="300"/>
+"https://media.giphy.com/media/fen8hZws2UoPaaahL2/giphy.gif" " width="250"/>
 </div>
 
 
