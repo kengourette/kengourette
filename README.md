@@ -22,13 +22,7 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
-</div>
-
-
-<div id="badges" align="center">
-  <a href="https://www.kaggle.com/kengourette">
-    <img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge"/>
-  </a>
+  <img scr="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge"/>
 </div>
 
 
