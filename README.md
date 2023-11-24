@@ -42,6 +42,9 @@
   <a href=" ">
     <img src="https://img.shields.io/badge/docker-white?logo=docker&logoColor=blue&style=for-the-badge" alt="Docker Badge"/>
   </a>
+  <a href=" ">
+    <img src="https://img.shields.io/badge/numpy-green?logo=numpy&logoColor=black&style=for-the-badge" alt="Numpy Badge"/>
+  </a>
 </div>
 
 
