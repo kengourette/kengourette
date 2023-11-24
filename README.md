@@ -19,7 +19,7 @@
 
 <h4 align="center">
 Как со мной связаться:
- <div id="badges" align="center">
+ <div id="badges">
   <a href="https://t.me/kengourette">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
