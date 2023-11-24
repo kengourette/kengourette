@@ -20,8 +20,8 @@
 Языки и инструменты:
 </h4>
 
-<div id="badges" align="center">
-  <a <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
+<div id="badges">
+  <a img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
   </a>
 </div>
 
