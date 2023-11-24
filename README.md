@@ -21,11 +21,11 @@
 </h4>
 
 <div id="badges">
-<a href=" ">
-  <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
+ <a href=" ">
+  <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge" alt="Python Badge"/>
  </a>
  <a href=" ">
-  <img scr="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge"/>
+  <img scr="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge" alt="Pandas Badge"/>
  </a>
 </div>
 
