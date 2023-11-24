@@ -21,8 +21,7 @@
 </h4>
 
 <div id="badges">
-  <a img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
 </div>
 
 
