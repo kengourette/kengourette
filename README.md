@@ -18,7 +18,7 @@
 
 
 <h4 align="center">
-Как со мной связаться: Начинающий Аналитик данных и Data Scientist.
+Как со мной связаться:
  <div id="badges" align="center">
   <a href="https://t.me/kengourette">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
