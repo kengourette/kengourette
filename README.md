@@ -36,6 +36,9 @@
   <a href=" ">
     <img src="https://img.shields.io/badge/scikitlearn-orange?logo=scikitlearn&logoColor=blue&style=for-the-badge" alt="Scikit-learn Badge"/>
   </a>
+  <a href=" ">
+    <img src="https://img.shields.io/badge/sql-grey?logo=postgresql&logoColor=red&style=for-the-badge" alt="SQL Badge"/>
+  </a>
 </div>
 
 
