@@ -50,7 +50,6 @@
   </a>
 </div>
 
-
 <h4 align="center">
 Как со мной связаться:
  <div id="badges">
@@ -59,5 +58,10 @@
   </a>
 </div>
 </h4>
+
+### :writing_hand: Мои репозитории:
+1. [Репозиторий YP-DS-Portfolio: Учебные проекты Яндекс.Практикум (Специалист по Data Science)](https://github.com/kengourette/YP-DS-Portfolio)
+2. [Репозиторий PET-projects: Внеучебные проекты по DS](https://github.com/kengourette/PET-projects)
+
 
 
