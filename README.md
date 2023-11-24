@@ -21,11 +21,27 @@
 </h4>
 
 <div id="badges">
+<a href=" ">
   <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
- </div>
- <div id="badges">
+ </a>
+ <a href=" ">
   <img scr="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge"/>
+ </a>
 </div>
+
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 
 <h4 align="center">
