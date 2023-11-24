@@ -28,16 +28,19 @@
     <img src="https://img.shields.io/badge/pandas-blue?logo=pandas&logoColor=yellow&style=for-the-badge" alt="Pandas Badge"/>
   </a>
   <a href=" ">
+    <img src="https://img.shields.io/badge/anaconda-green?logo=anaconda&logoColor=white&style=for-the-badge" alt="Anaconda Badge"/>
+  </a>
+  <a href=" ">
     <img src="https://img.shields.io/badge/matplotlib-orange?logo=matplotlib&logoColor=black&style=for-the-badge" alt="Matplotlib Badge"/>
   </a>
   <a href=" ">
     <img src="https://img.shields.io/badge/seaborn-black?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn Badge"/>
   </a>
   <a href=" ">
-    <img src="https://img.shields.io/badge/scikitlearn-orange?logo=scikitlearn&logoColor=blue&style=for-the-badge" alt="Scikit-learn Badge"/>
-  </a>
-  <a href=" ">
     <img src="https://img.shields.io/badge/sql-grey?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL Badge"/>
+  </a>
+ <a href=" ">
+    <img src="https://img.shields.io/badge/scikitlearn-orange?logo=scikitlearn&logoColor=blue&style=for-the-badge" alt="Scikit-learn Badge"/>
   </a>
   <a href=" ">
     <img src="https://img.shields.io/badge/docker-white?logo=docker&logoColor=blue&style=for-the-badge" alt="Docker Badge"/>
