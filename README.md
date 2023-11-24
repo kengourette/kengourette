@@ -16,6 +16,22 @@
   </a>
 </div>
 
+<h4 align="center">
+Языки и инструменты:
+</h4>
+
+<div id="badges" align="center">
+  <a <img src="https://img.shields.io/badge/python-grey?logo=python&logoColor=yellow&style=for-the-badge"/>
+  </a>
+</div>
+
+
+<div id="badges" align="center">
+  <a href="https://www.kaggle.com/kengourette">
+    <img src="https://img.shields.io/badge/kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
+
 
 <h4 align="center">
 Как со мной связаться:
