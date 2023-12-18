@@ -45,6 +45,9 @@
 <a href=" ">
     <img src="https://img.shields.io/badge/sql-grey?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL Badge"/>
   </a>
+ <a href=" ">
+    <img src="https://img.shields.io/badge/Streamlit-white?logo=streamlit&logoColor=red&style=for-the-badge" alt="Streamlit Badge"/>
+  </a>
   <a href=" ">
     <img src="https://img.shields.io/badge/numpy-green?logo=numpy&logoColor=black&style=for-the-badge" alt="Numpy Badge"/>
   </a>
