@@ -64,7 +64,7 @@
 
 ### :writing_hand: Мои репозитории:
 1. [Репозиторий YP-DS-Portfolio: Учебные проекты Яндекс.Практикум (Специалист по Data Science)](https://github.com/kengourette/YP-DS-Portfolio)
-2. [Репозиторий PET-projects: Внеучебные проекты по DS](https://github.com/kengourette/PET-projects)
+2. [Репозиторий PET-projects: Коммерческие проекты по DS](https://github.com/kengourette/PET-projects)
 
 ### Дипломы и сертификаты о пройденных курсах:
 -  [Диплом о профессиональной переподготовке по программе "Специалист по Data Science"(Яндекс Практикум)](https://drive.google.com/file/d/15STQ-vtgtMMRtPT_vBSAhkJedi-voGw9/view?usp=sharing)
